@@ -1,0 +1,4 @@
+.help
+.commands
+.test
+.members
